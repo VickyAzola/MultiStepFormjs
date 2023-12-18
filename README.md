@@ -1,2 +1,2 @@
 # MultiStepFormjs
-MultiStep Form (HTML5, SCSS, Js)
+MultiStep Form (HTML5, CSS, SCSS, Js)
