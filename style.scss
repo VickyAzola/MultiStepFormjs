@@ -22,7 +22,7 @@ body {
     min-height: 100vh;
     display: grid;
     place-content: center;
-    background-image: url('/vite-project/public/blur-radial.svg'), url('/vite-project/public/blur-radial.svg');
+    background-image: url('blur-radial.svg'), url('blur-radial.svg');
     background-position: top -400px left -300px, bottom -400px right -300px;
     background-repeat: no-repeat;
     background-color: var(--darkestGray); 
